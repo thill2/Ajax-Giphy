@@ -1,0 +1,26 @@
+#newForm {
+  float: right;
+  padding: 20px;
+}
+
+h3 {
+  text-align: center;
+  padding: 10px;
+}
+
+input {
+	align-content: center;
+}
+
+#buttonsView{
+  padding: 20px;
+}
+ 
+.gifButton{
+  margin-right: 10px;
+}
+
+#addGifs{
+  margin-top: 20px;
+  margin-left: 10px;
+}
